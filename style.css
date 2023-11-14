@@ -10,7 +10,7 @@ body{
    display: flex;
 }
 .leftcontainer{
-    margin-left:42px;
+    margin-left:200px;
 }
 #logo{
     width: 203px;
